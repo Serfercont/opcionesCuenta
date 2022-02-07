@@ -1,0 +1,4 @@
+#Mon Feb 07 13:28:10 CET 2022
+base.0=C\:\\Users\\Alumno\\Downloads\\workspace_handel_app-main\\workspace_handel_app-main\\Handel\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
